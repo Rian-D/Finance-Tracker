@@ -15,7 +15,7 @@ A simple yet powerful command-line application to track your personal finances, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FinanceTracker.git
+git clone https://github.com/Rian-D/FinanceTracker.git
 cd FinanceTracker
 ```
 
@@ -60,13 +60,6 @@ python main.py
 - pandas >= 2.0.0
 - matplotlib >= 3.7.0
 
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Future Improvements 🎯
 
@@ -75,13 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Data export/import functionality
 - Advanced analytics and reporting
 - Search and filter capabilities
-- Recurring transactions support
-
-## Author 👤
-
-[Your Name]
-
-## Acknowledgments 🙏
-
-- Thanks to the pandas and matplotlib communities for their excellent libraries
-- Inspired by the need for simple personal finance tracking 
+- Recurring transactions support 
